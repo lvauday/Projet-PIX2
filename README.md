@@ -44,6 +44,18 @@ mon objet étant en 2 parties: chaussure et portique, j'ai du faire 2 schémas q
 
 
 4.2. Liste des éléments à acheter pour le fabriquer 
+
+-emetteur radio: http://fr.rs-online.com/web/p/modules-rf-faible-consommation/7839628/
+prix/piece: 19,52€
+quantitée 1
+-recepteur radio: http://fr.rs-online.com/web/p/modules-rf-faible-consommation/5324395/
+prix/piece: 31,50€
+quantité 2 : (63€)
+-boitier pille: http://www.conradpro.fr/ce/fr/product/617946/Botier-support-1-pile-R03-noir-connexions-souder?queryFromSuggest=true
+prix/piece: 1€
+quantité 1
+
+
 Liste du matériel avec pour chaque pièce : 
 *le lien vers le datasheet ou la documentation de chaque élément. 
 *le lien vers la pièce sur le site d'un des fournisseurs d'ESILV (voir la liste plus bas) 
