@@ -1,8 +1,7 @@
 Projet-PIX2
 ===========
-1. Croquis
-![alt tag](http://hpics.li/178275d)
- 
+1. Croquis http://hpics.li/178275d
+
 2. Cahier des charges 
 
 2.1. Quoi ? 
@@ -27,8 +26,7 @@ autorisé).
 
 4.1. Cas d'utilisation : http://hpics.li/b44544f
 
-4.2. Diagramme états-transitions : 
-![alt tag](http://hpics.li/bed4622)
+4.2. Diagramme états-transitions : http://hpics.li/bed4622
  
 
 4. Description matériel 
