@@ -31,11 +31,17 @@ autorisé).
 
 4. Description matériel 
 
-4.1. Schéma Gadgeteer et électronique de l'objet 
+4.1. Schéma Gadgeteer:
+mon objet étant en 2 parties: chaussure et portique, j'ai du faire 2 schémas que j'ai légender:
 
-Insérer l'image obtenu à travers le designer Gadgeteer 
+*1 : schéma de la chaussure: - brut : http://hpics.li/f3d4e1b
+                             - légendé: http://hpics.li/9899b04
 
-(et si nécessaire le début du schema électronique des modules que vous devrez fabriquer) 
+*2 : schéma du portique : - brut : http://hpics.li/fdeb292
+                          - légendé: http://hpics.li/85ea924
+                          
+* 1+2 : schéma des 2 réunis : http://hpics.li/10838b7
+
 
 4.2. Liste des éléments à acheter pour le fabriquer 
 Liste du matériel avec pour chaque pièce : 
