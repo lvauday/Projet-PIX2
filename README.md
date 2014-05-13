@@ -54,28 +54,9 @@ quantité 2 : (63€)
 -boitier pille: http://www.conradpro.fr/ce/fr/product/617946/Botier-support-1-pile-R03-noir-connexions-souder?queryFromSuggest=true
 prix/piece: 1€
 quantité 1
-
-
-Liste du matériel avec pour chaque pièce : 
-*le lien vers le datasheet ou la documentation de chaque élément. 
-*le lien vers la pièce sur le site d'un des fournisseurs d'ESILV (voir la liste plus bas) 
-*le prix HT et TTC 
-
-Dans le cadre des projets scolaires, ce sont les labos d'ESILV qui passeront les commandes. Il faut que les 
-étudiants sélectionnent leurs composants uniquement chez les fournisseurs suivants : 
-Lextronic : http://www.lextronic.fr/ 
-Go Tronic : http://www.gotronic.fr/ 
-Radiospares : http://radiospares-fr.rs-online.com/web/ 
-Conrad : http://www.conradpro.fr/ce/ 
- 
-
-5. Programmation 
-5.1. Description de la démonstration 
-Mettre ici le menu de votre application console et indiquer comment refaire la demo. 
- 
-5.2. Liste des fichiers 
-Mettre ici le tree folder/file (revoir commande dos tree) de votre projet avec une courte description pour 
-chaque fichier 
-
-5.3. Diagramme de classes
-Mettre ici le diagramme de classes fabriquer à l'aide de Visual Studio.
+-FEZcerebus:
+prix/piece: €
+quantité 2 ( €)
+- sortie usb:http://fr.rs-online.com/web/p/kits-de-developpement-pour-interfaces/7393504/
+prix/piece: 57,76€
+quantité 1
